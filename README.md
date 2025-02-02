@@ -36,10 +36,12 @@
 
 
 ## My workspace 💻
+<p>
 <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/AMD-R9%205900x-%23B22222.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Nvidia-RTX%204070%20Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 
 
